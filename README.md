@@ -15,7 +15,7 @@
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
 <a href="" target="_blank"> 
-<a href="https://www.python.org" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" alt="Django" height="30" width="30" /></a>&nbsp;
+<a href="https://www.python.org" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="30" width="30" /></a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" alt="Django" height="30" width="30" /></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Mysql" height="30" width="30" /></a>&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" height="30" width="30" /></a>&nbsp;
