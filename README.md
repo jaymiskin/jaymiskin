@@ -4,10 +4,16 @@
 - 🌱 I’m currently learning **Python (Django)**
 
 - 📫 How to reach me **miskinjay@gmail.com**
-
+<style>
+        .MyImg:hover{
+            transition: cubic-bezier(0.19, 1, 0.22, 1);
+            transform: rotate3d();
+        }
+    </style>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_.always_augst/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Error" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/_.always_augst/" target="_blank"><img class="MyImg" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jay-miskin/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://join.skype.com/invite/xcmhckCT6NAM" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="Error" height="30" width="30"></a>&nbsp;
 </p>
