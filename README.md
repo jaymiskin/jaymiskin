@@ -4,12 +4,6 @@
 - 🌱 I’m currently learning **Python (Django)**
 
 - 📫 How to reach me **miskinjay@gmail.com**
-<style>
-        .MyImg:hover{
-            transition: cubic-bezier(0.19, 1, 0.22, 1);
-            transform: rotate3d();
-        }
-    </style>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
