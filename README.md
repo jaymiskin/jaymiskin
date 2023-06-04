@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_.always_augst/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Error" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/_.always_augst/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jay-miskin/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://join.skype.com/invite/xcmhckCT6NAM" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="Error" height="30" width="30"></a>&nbsp;
 </p>
