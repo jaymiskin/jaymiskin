@@ -7,7 +7,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:miskinjay@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png](https://img.freepik.com/free-psd/email-icon-3d-render-illustration-transparent-psd-file_460848-10971.jpg?size=626&ext=jpg" alt="Error" height="30" width="30"></a>&nbsp;
+<a href="mailto:miskinjay@gmail.com" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Error" height="30" width="30"></a>&nbsp;
 <a href="https://www.instagram.com/_.always_augst/" target="_blank"><img class="MyImg" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jay-miskin/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Error" height="30" width="30" /></a>&nbsp;
 <a href="https://join.skype.com/invite/xcmhckCT6NAM" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="Error" height="30" width="30"></a>&nbsp;
